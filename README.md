@@ -13,4 +13,4 @@ https://chucktowntiger.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Todd Holley
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
